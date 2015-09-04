@@ -1,0 +1,36 @@
+[submodule "falcor"]
+	path = falcor
+	url = https://github.com/netflix/falcor
+[submodule "falcor-router"]
+	path = falcor-router
+	url = https://github.com/Netflix/falcor-router
+[submodule "falcor-path-syntax"]
+	path = falcor-path-syntax
+	url = https://github.com/Netflix/falcor-path-syntax
+[submodule "falcor-express"]
+	path = falcor-express
+	url = https://github.com/Netflix/falcor-express
+[submodule "falcor-router-demo"]
+	path = falcor-router-demo
+	url = https://github.com/Netflix/falcor-router-demo
+[submodule "falcor-express-demo"]
+	path = falcor-express-demo
+	url = https://github.com/Netflix/falcor-express-demo
+[submodule "falcor-path-utils"]
+	path = falcor-path-utils
+	url = https://github.com/Netflix/falcor-path-utils
+[submodule "falcor-restify"]
+	path = falcor-restify
+	url = https://github.com/Netflix/falcor-restify
+[submodule "falcor-hapi"]
+	path = falcor-hapi
+	url = https://github.com/Netflix/falcor-hapi
+[submodule "falcor-json-graph"]
+	path = falcor-json-graph
+	url = https://github.com/Netflix/falcor-json-graph
+[submodule "falcor-hapi-demo"]
+	path = falcor-hapi-demo
+	url = https://github.com/Netflix/falcor-hapi-demo
+[submodule "falcor-restify-demo"]
+	path = falcor-restify-demo
+	url = https://github.com/Netflix/falcor-restify-demo
